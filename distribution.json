@@ -1,0 +1,50 @@
+{
+    "version": "1.0.0",
+    "discord": {
+        "clientId": "1296879619563327498",
+        "smallImageText": "Elysia Launcher",
+        "smallImageKey": "icon"
+    },
+
+    "servers": [
+
+        {
+            "id": "forge_1.20.1",
+            "name": "Forge 1.20.1", 
+            "description": "Serveur Forge 1.20.1",
+            "icon": "",
+            "version":"1.0.0",
+            "address": "localhost",
+            "minecraftVersion": "1.20.1",
+            "discord": {
+                "shortId": "Forge",
+                "largeImageText": "Serveur Forge 1.20.1",
+                "largeImageKey": "server-icon"
+            },
+            "mainServer": true,
+            "autoconnect": true,
+            "modules": [
+                {
+                    "id": "net.minecraftforge:forge:1.20.1-47.2.0",
+                    "name": "Forge",
+                    "type": "ForgeHosted",
+                    "artifact": {
+                        "size": 5324576,
+                        "MD5": "HASH_MD5_DU_FICHIER_FORGE",
+                        "url": "https://github.com/JeremGamingYT/ElysiaDevInstaller/raw/main/Installer/forge/forge-installer.jar"
+                    }
+                },
+                {
+                    "id": "jei-1.20.1-forge-15.20.0.102.jar",
+                    "name": "JEI",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1405440,
+                        "MD5": "a2cd335b8fdaa444286eeac35ad31c7a",
+                        "url": "https://legacy.curseforge.com/minecraft/mc-mods/jei/download/5781188"
+                    }
+                }
+            ]
+        }
+    ]
+} 
