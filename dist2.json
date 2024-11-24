@@ -438,7 +438,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1406026,
-                        "url": "",
+                        "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/mods/jei-1.20.1-forge-15.20.0.102.jar",
                         "MD5": "a2cd335b8fdaa444286eeac35ad31c7a"
                     }
                 }
