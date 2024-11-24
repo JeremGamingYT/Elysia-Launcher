@@ -1,0 +1,66 @@
+{
+    "version": "1.0.0",
+    "rss": "https://www.minecraft.net/ko-kr/feeds/community-content/rss",
+    "discord": {
+        "clientId": "1296879619563327498",
+        "smallImageText": "",
+        "smallImageKey": ""
+    },
+    "servers": [
+        {
+            "id": "elysia-1.20.1",
+            "name": "Elysia - 1.20.1",
+            "description": "Elysia (MC 1.20.1 / Forge 47.2.0)",
+            "icon": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher/main/app/assets/images/SealCircle.png",
+            "version": "1.0.0",
+            "address": "localhost",
+            "minecraftVersion": "1.20.1",
+            "discord": {
+                "shortId": "Elysia",
+                "largeImageText": "Elysia",
+                "largeImageKey": "server-icon"
+            },
+            "mainServer": true,
+            "autoconnect": true,
+            "modules": [
+                {
+                    "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.2.0",
+                    "name": "Minecraft Forge (lowcodelanguage)",
+                    "type": "ForgeHosted",
+                    "classpath": true,
+                    "artifact": {
+                        "size": 7398,
+                        "MD5": "d295c4a25914cc6486c2e501ef432b18",
+                        "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher/main/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar"
+                    },
+                    "subModules": [
+                        {
+                            "id": "1.20.1-47.2.0",
+                            "name": "Minecraft Forge (version.json)",
+                            "type": "VersionManifest",
+                            "artifact": {
+                                "size": 16542,
+                                "MD5": "826cb4d525749099af9ecb33b732fb84",
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher/main/versions/1.20.1-forge-47.2.0/1.20.1-forge-47.2.0.json"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "jei-1.20.1-forge-15.20.0.102.jar",
+                    "name": "JEI",
+                    "type": "ForgeMod",
+                    "required": {
+                        "value": true,
+                        "def": true
+                    },
+                    "artifact": {
+                        "size": 1405440,
+                        "MD5": "a2cd335b8fdaa444286eeac35ad31c7a",
+                        "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher/main/mods/jei-1.20.1-forge-15.20.0.102.jar"
+                    }
+                }
+            ]
+        }
+    ]
+}
