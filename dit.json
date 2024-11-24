@@ -1,0 +1,158 @@
+{
+    "version": "1.0.0",
+    "rss": "https://www.minecraft.net/ko-kr/feeds/community-content/rss",
+    "discord": {
+        "clientId": "999669813272121364",
+        "smallImageText": "",
+        "smallImageKey": ""
+    },
+    "servers": [
+        {
+            "id": "2024-7-1.20.1",
+            "name": "All the Mods - Gravitas²",
+            "description": "MRS 2024-7 (MC 1.20.1 / Forge 47.3.0)",
+            "icon": "https://cdn.mysticred.space/icon.png",
+            "version": "0.4.3",
+            "address": "mysticred.space",
+            "minecraftVersion": "1.20.1",
+            "discord": {
+                "shortId": "ATM Gravitas²",
+                "largeImageText": "ATM Gravitas²",
+                "largeImageKey": "mrs"
+            },
+            "mainServer": true,
+            "autoconnect": true,
+            "modules": [
+                {
+                    "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.3.0",
+                    "name": "Minecraft Forge (lowcodelanguage)",
+                    "type": "ForgeHosted",
+                    "classpath": true,
+                    "artifact": {
+                        "size": 7398,
+                        "MD5": "d295c4a25914cc6486c2e501ef432b18",
+                        "url": "https://cdn.mysticred.space/launcher/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar"
+                    },
+                    "subModules": [
+                        {
+                            "id": "1.20.1-47.3.0",
+                            "name": "Minecraft Forge (version.json)",
+                            "type": "VersionManifest",
+                            "artifact": {
+                                "size": 16542,
+                                "MD5": "826cb4d525749099af9ecb33b732fb84",
+                                "url": "https://cdn.mysticred.space/launcher/repo/versions/1.20.1-forge-47.3.0/1.20.1-forge-47.3.0.json"
+                            }
+                        },
+                        {
+                            "id": "net.minecraftforge:fmlcore:1.20.1-47.3.0",
+                            "name": "Minecraft Forge (fmlcore)",
+                            "type": "Library",
+                            "classpath": true,
+                            "artifact": {
+                                "size": 118685,
+                                "MD5": "2ef1c9adb09cc3592e5e7185c90570c9",
+                                "url": "https://cdn.mysticred.space/launcher/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar"
+                            },
+                            "subModules": []
+                        },
+                        {
+                            "id": "net.minecraftforge:javafmllanguage:1.20.1-47.3.0",
+                            "name": "Minecraft Forge (javafmllanguage)",
+                            "type": "Library",
+                            "classpath": true,
+                            "artifact": {
+                                "size": 16516,
+                                "MD5": "f457a3acdf187aa53ca5cbac9a951fcf",
+                                "url": "https://cdn.mysticred.space/launcher/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar"
+                            },
+                            "subModules": []
+                        },
+                        {
+                            "id": "net.minecraftforge:mclanguage:1.20.1-47.3.0",
+                            "name": "Minecraft Forge (mclanguage)",
+                            "type": "Library",
+                            "classpath": true,
+                            "artifact": {
+                                "size": 4998,
+                                "MD5": "09464464e54df9838666d62cf151c2c0",
+                                "url": "https://cdn.mysticred.space/launcher/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar"
+                            },
+                            "subModules": []
+                        },
+                        {
+                            "id": "net.minecraftforge:forge:1.20.1-47.3.0:universal",
+                            "name": "Minecraft Forge (universal jar)",
+                            "type": "Library",
+                            "classpath": false,
+                            "artifact": {
+                                "size": 2753075,
+                                "MD5": "4804c269e3b593655a9526743f455ef8",
+                                "url": "https://cdn.mysticred.space/launcher/repo/lib/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-universal.jar"
+                            },
+                            "subModules": []
+                        },
+                        {
+                            "id": "net.minecraftforge:forge:1.20.1-47.3.0:client",
+                            "name": "Minecraft Forge (client jar)",
+                            "type": "Library",
+                            "classpath": false,
+                            "artifact": {
+                                "size": 4792900,
+                                "MD5": "505bc8230f0e393e853739df4e71da99",
+                                "url": "https://cdn.mysticred.space/launcher/repo/lib/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-client.jar"
+                            },
+                            "subModules": []
+                        },
+                        {
+                            "id": "net.minecraft:client:1.20.1-20230612.114412:srg",
+                            "name": "Minecraft Forge (client srg)",
+                            "type": "Library",
+                            "classpath": false,
+                            "artifact": {
+                                "size": 18842082,
+                                "MD5": "8bfacfba4f54cda741019756165c5ecf",
+                                "url": "https://cdn.mysticred.space/launcher/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+                            },
+                            "subModules": []
+                        },
+                        {
+                            "id": "net.minecraft:client:1.20.1-20230612.114412:slim",
+                            "name": "Minecraft Forge (client slim)",
+                            "type": "Library",
+                            "classpath": false,
+                            "artifact": {
+                                "size": 12592249,
+                                "MD5": "28edebec7b5a007bc9961ee9bab4d764",
+                                "url": "https://cdn.mysticred.space/launcher/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+                            },
+                            "subModules": []
+                        },
+                        {
+                            "id": "net.minecraft:client:1.20.1-20230612.114412:extra",
+                            "name": "Minecraft Forge (client extra)",
+                            "type": "Library",
+                            "classpath": false,
+                            "artifact": {
+                                "size": 10436626,
+                                "MD5": "da6bb1a2c23108392fd6c103da40867c",
+                                "url": "https://cdn.mysticred.space/launcher/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+                            },
+                            "subModules": []
+                        },
+                        {
+                            "id": "cpw.mods:securejarhandler:2.1.10",
+                            "name": "Minecraft Forge (securejarhandler)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 88749,
+                                "MD5": "d9ff48d1c68388270388b803fa42611e",
+                                "url": "https://cdn.mysticred.space/launcher/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

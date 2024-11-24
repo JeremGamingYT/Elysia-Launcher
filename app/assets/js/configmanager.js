@@ -2,6 +2,7 @@ const fs   = require('fs-extra')
 const { LoggerUtil } = require('helios-core')
 const os   = require('os')
 const path = require('path')
+const got = require('got')
 
 const logger = LoggerUtil.getLogger('ConfigManager')
 
