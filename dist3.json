@@ -13,7 +13,7 @@
             "description": "ELS 2024-11 (MC 1.20.1 / Forge 47.3.2)",
             "icon": "https://cdn.mysticred.space/icon.png",
             "version": "0.4.3",
-            "address": "mysticred.space",
+            "address": "91.197.6.212:25580",
             "minecraftVersion": "1.20.1",
             "discord": {
                 "shortId": "ATM Gravitas²",
@@ -31,7 +31,7 @@
                     "artifact": {
                         "size": 8192,
                         "MD5": "",
-                        "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.3.2/lowcodelanguage-1.20.1-47.3.2.jar"
+                        "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher/main/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.3.2/lowcodelanguage-1.20.1-47.3.2.jar"
                     },
                     "subModules": [
                         {
@@ -41,7 +41,7 @@
                             "artifact": {
                                 "size": 16542,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/versions/1.20.1-forge-47.3.2/1.20.1-forge-47.3.2.json"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher/main/lib/versions/1.20.1-forge-47.3.2/1.20.1-forge-47.3.2.json"
                             }
                         },
                         {
@@ -52,7 +52,7 @@
                             "artifact": {
                                 "size": 118687,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/fmlcore/1.20.1-47.3.2/fmlcore-1.20.1-47.3.2.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher/main/lib/net/minecraftforge/fmlcore/1.20.1-47.3.2/fmlcore-1.20.1-47.3.2.jar"
                             },
                             "subModules": []
                         },
@@ -64,7 +64,7 @@
                             "artifact": {
                                 "size": 16518,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/javafmllanguage/1.20.1-47.3.2/javafmllanguage-1.20.1-47.3.2.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher/main/lib/net/minecraftforge/javafmllanguage/1.20.1-47.3.2/javafmllanguage-1.20.1-47.3.2.jar"
                             },
                             "subModules": []
                         },
@@ -76,7 +76,7 @@
                             "artifact": {
                                 "size": 5001,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/mclanguage/1.20.1-47.3.2/mclanguage-1.20.1-47.3.2.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher/main/lib/net/minecraftforge/mclanguage/1.20.1-47.3.2/mclanguage-1.20.1-47.3.2.jar"
                             },
                             "subModules": []
                         },
@@ -88,7 +88,7 @@
                             "artifact": {
                                 "size": 2753219,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/forge/1.20.1-47.3.2/forge-1.20.1-47.3.2-universal.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher/main/lib/net/minecraftforge/forge/1.20.1-47.3.2/forge-1.20.1-47.3.2-universal.jar"
                             },
                             "subModules": []
                         },
@@ -100,7 +100,7 @@
                             "artifact": {
                                 "size": 4792946,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/forge/1.20.1-47.3.2/forge-1.20.1-47.3.2-client.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher/main/lib/net/minecraftforge/forge/1.20.1-47.3.2/forge-1.20.1-47.3.2-client.jar"
                             },
                             "subModules": []
                         },
@@ -112,7 +112,7 @@
                             "artifact": {
                                 "size": 18842082,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher/main/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
                             },
                             "subModules": []
                         },
@@ -124,7 +124,7 @@
                             "artifact": {
                                 "size": 12592249,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher/main/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
                             },
                             "subModules": []
                         },
@@ -136,7 +136,7 @@
                             "artifact": {
                                 "size": 10436626,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher/main/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
                             },
                             "subModules": []
                         },
@@ -147,7 +147,7 @@
                             "artifact": {
                                 "size": 88749,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher/main/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
                             }
                         },
                         {
@@ -157,7 +157,7 @@
                             "artifact": {
                                 "size": 125428,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/org/ow2/asm/asm/9.7/asm-9.7.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/org/ow2/asm/asm/9.7/asm-9.7.jar"
                             }
                         },
                         {
@@ -167,7 +167,7 @@
                             "artifact": {
                                 "size": 73426,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar"
                             }
                         },
                         {
@@ -177,7 +177,7 @@
                             "artifact": {
                                 "size": 51934,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar"
                             }
                         },
                         {
@@ -187,7 +187,7 @@
                             "artifact": {
                                 "size": 93784,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar"
                             }
                         },
                         {
@@ -197,7 +197,7 @@
                             "artifact": {
                                 "size": 34776,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar"
                             }
                         },
                         {
@@ -207,7 +207,7 @@
                             "artifact": {
                                 "size": 77756,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
                             }
                         },
                         {
@@ -217,7 +217,7 @@
                             "artifact": {
                                 "size": 337868,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/org/antlr/antlr4-runtime/4.11.1/antlr4-runtime-4.11.1.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/org/antlr/antlr4-runtime/4.11.1/antlr4-runtime-4.11.1.jar"
                             }
                         },
                         {
@@ -227,7 +227,7 @@
                             "artifact": {
                                 "size": 53985,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
                             }
                         },
                         {
@@ -237,7 +237,7 @@
                             "artifact": {
                                 "size": 29831,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
                             }
                         },
                         {
@@ -247,7 +247,7 @@
                             "artifact": {
                                 "size": 24124,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/coremods/5.1.6/coremods-5.1.6.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/coremods/5.1.6/coremods-5.1.6.jar"
                             }
                         },
                         {
@@ -257,7 +257,7 @@
                             "artifact": {
                                 "size": 130343,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
                             }
                         },
                         {
@@ -267,7 +267,7 @@
                             "artifact": {
                                 "size": 2834,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
                             }
                         },
                         {
@@ -277,7 +277,7 @@
                             "artifact": {
                                 "size": 2572,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
                             }
                         },
                         {
@@ -287,7 +287,7 @@
                             "artifact": {
                                 "size": 199834,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
                             }
                         },
                         {
@@ -297,7 +297,7 @@
                             "artifact": {
                                 "size": 31816,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
                             }
                         },
                         {
@@ -307,7 +307,7 @@
                             "artifact": {
                                 "size": 58077,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
                             }
                         },
                         {
@@ -317,7 +317,7 @@
                             "artifact": {
                                 "size": 18281,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
                             }
                         },
                         {
@@ -327,7 +327,7 @@
                             "artifact": {
                                 "size": 15977,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
                             }
                         },
                         {
@@ -337,7 +337,7 @@
                             "artifact": {
                                 "size": 150765,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
                             }
                         },
                         {
@@ -347,7 +347,7 @@
                             "artifact": {
                                 "size": 211712,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
                             }
                         },
                         {
@@ -357,7 +357,7 @@
                             "artifact": {
                                 "size": 1089277,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
                             }
                         },
                         {
@@ -367,7 +367,7 @@
                             "artifact": {
                                 "size": 2167288,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
                             }
                         },
                         {
@@ -377,7 +377,7 @@
                             "artifact": {
                                 "size": 17374,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
                             }
                         },
                         {
@@ -387,7 +387,7 @@
                             "artifact": {
                                 "size": 15895,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
                             }
                         },
                         {
@@ -397,7 +397,7 @@
                             "artifact": {
                                 "size": 8284,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
                             }
                         },
                         {
@@ -407,7 +407,7 @@
                             "artifact": {
                                 "size": 32195,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
                             }
                         },
                         {
@@ -417,7 +417,7 @@
                             "artifact": {
                                 "size": 264538,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/fmlloader/1.20.1-47.3.2/fmlloader-1.20.1-47.3.2.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/fmlloader/1.20.1-47.3.2/fmlloader-1.20.1-47.3.2.jar"
                             }
                         },
                         {
@@ -427,7 +427,7 @@
                             "artifact": {
                                 "size": 170833,
                                 "MD5": "",
-                                "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.2/fmlearlydisplay-1.20.1-47.3.2.jar"
+                                "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.2/fmlearlydisplay-1.20.1-47.3.2.jar"
                             }
                         }
                     ]
@@ -438,7 +438,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1406026,
-                        "url": "https://cdn.jsdelivr.net/gh/JeremGamingYT/Elysia-Launcher@main/mods/jei-1.20.1-forge-15.20.0.102.jar",
+                        "url": "https://raw.githubusercontent.com/JeremGamingYT/Elysia-Launcher@main/mods/jei-1.20.1-forge-15.20.0.102.jar",
                         "MD5": "a2cd335b8fdaa444286eeac35ad31c7a"
                     }
                 }
